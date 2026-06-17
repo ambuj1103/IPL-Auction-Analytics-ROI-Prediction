@@ -250,6 +250,7 @@ End-to-End-IPL-Data-Analytics/
 ├── Python Script/                   # Data cleaning & export script
 │   └── ipl_analysis.py              # Loads raw CSVs → cleans → exports PowerBI Tables
 │
+├── LICENSE
 └── README.md
 ```
 
