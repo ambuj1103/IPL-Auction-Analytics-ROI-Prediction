@@ -96,6 +96,8 @@ A star schema was implemented in Power BI for optimized cross-filtering and accu
 
 📌 Purpose: High-level IPL history snapshot
 
+![Overview Page](Dashboard-Screenshots/1_Overview.jpeg)
+
 ---
 
 ### 🔹 2. Team Performance
@@ -107,6 +109,8 @@ A star schema was implemented in Power BI for optimized cross-filtering and accu
 
 📌 Key Insight:
 > Teams winning the toss win the match only ~49% of the time — toss advantage is essentially a coin flip.
+
+![Team Performance Page](Dashboard-Screenshots/2_Team-Performance.jpeg)
 
 ---
 
@@ -120,6 +124,8 @@ A star schema was implemented in Power BI for optimized cross-filtering and accu
 📌 Key Insight:
 > Mumbai Indians and CSK batters dominate both run-scoring and boundary-hitting charts.
 
+![Batting Analysis Page](Dashboard-Screenshots/3_Batting-Analysis.jpeg)
+
 ---
 
 ### 🔹 4. Bowling Analysis
@@ -128,6 +134,8 @@ A star schema was implemented in Power BI for optimized cross-filtering and accu
 - Best Economy Bowlers (min 10 matches)
 - Dismissal Type Distribution donut
 - KPI Cards: Total Wickets, Avg Economy
+
+![Bowling Analysis Page](Dashboard-Screenshots/4_Bowling-Analysis.jpeg)
 
 ---
 
@@ -140,6 +148,8 @@ A star schema was implemented in Power BI for optimized cross-filtering and accu
 
 📌 Key Insight:
 > Run rate spikes sharply in overs 16–20, confirming death-over hitting as the decisive phase.
+
+![Match Insight Page](Dashboard-Screenshots/5_Match-Insights.jpeg)
 
 ---
 
